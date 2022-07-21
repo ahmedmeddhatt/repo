@@ -1,0 +1,26 @@
+{
+  "name": "task-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.0.0-beta1",
+    "owl.carousel": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedmeddhatt/repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedmeddhatt/repo/issues"
+  },
+  "homepage": "https://github.com/ahmedmeddhatt/repo#readme"
+}
